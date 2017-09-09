@@ -8,6 +8,6 @@ The 5 courses in this University of Michigan specialization introduce learners t
 
 ## Course 1 - Introduction to Data Science
 
-[Assignment 4 - Hypothesis Testing](https://github.com/mraty/applied-data-science/tree/master/course-1_data-science-intro)
+[Assignment 4 - Hypothesis Testing](https://github.com/mraty/applied-data-science/blob/master/course-1_data-science-intro/Assignment%2B4.ipynb)
 
 Hypothesis: University towns have their mean housing prices less effected by recessions. Run a t-test to compare the ratio of the mean price of houses in university towns the quarter before the recession starts compared to the recession bottom. 
